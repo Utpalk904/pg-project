@@ -37,6 +37,7 @@ nav {
     position: fixed;
     top: 0;
     transition: all 0.8s;
+    z-index: 2;
 
     .nav_title {
         font-weight: 600;
@@ -128,9 +129,12 @@ nav {
 }
 
 .nav_change {
-    height: 8rem;
+    height: 6rem;
     background-color: white;
     color: black;
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,00.22);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,00.22);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.22);
     transition: 0.8s;
 }
 
