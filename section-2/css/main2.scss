@@ -43,6 +43,7 @@ html, body {
 
 .swiper {
     width: 100%;
+    // width: 350px;
     height: 410px;
 }
 
@@ -53,6 +54,7 @@ html, body {
     font-size: 18px;
     background: aquamarine;
     border-radius: 10px;
+    // min-width: 350px;
 
     /* Center slide text vertically */
     display: -webkit-box;
@@ -146,7 +148,7 @@ html, body {
 
 @media screen and (max-width:500px) {
     .section_2 {
-        padding-left: 2.5rem;
+        padding-left: 2rem;
     }
 }
 

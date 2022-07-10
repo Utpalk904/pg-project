@@ -123,7 +123,7 @@ html, body {
 
 @media screen and (max-width: 500px) {
   .section_2 {
-    padding-left: 2.5rem;
+    padding-left: 2rem;
   }
 }
 @media screen and (max-width: 840px) {

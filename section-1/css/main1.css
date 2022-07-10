@@ -155,11 +155,9 @@ nav .user i {
     padding: 0 3rem;
     height: 9rem;
   }
-
   .nav_change {
     height: 7rem;
   }
-
   .section_1_content .section_1_title, .section_1_content .section_1_txt {
     width: 60%;
   }
@@ -168,19 +166,15 @@ nav .user i {
   nav {
     padding: 0 4rem;
   }
-
   nav .user .menu_icon, nav .user .fa-bars {
     display: flex;
   }
-
   nav .user .user_icon, nav .user .fa-user-o {
     display: none;
   }
-
   nav .nav_links {
     display: none;
   }
-
   .section_1_content .section_1_title, .section_1_content .section_1_txt {
     width: 60%;
   }
